@@ -7,9 +7,9 @@ multiply === 62;
 
 let random = Math.floor(Math.random()*10);
 
-let num3 = 29;
-let num4 = 5;
-let mod = num3 % num4;
+let num4 = 29;
+let num3 = 5;
+let mod = num4 % num3;
 mod === 4;
 
 let max = Math.max(4, 20, 16, 8, 4);
